@@ -1,4 +1,4 @@
-module example.com/go_learn
+module example.com/go_learn 
 
 go 1.22.3
 

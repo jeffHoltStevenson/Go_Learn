@@ -11,4 +11,6 @@ import (
 func main() {
 	fmt.Println(mascot.BestMascot())
 	fmt.Println(quote.Go())
+	fmt.Println(pascal_triangle(1))
+	fmt.Println(pascal_triangle(10))
 }
